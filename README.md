@@ -1,1 +1,1 @@
-# my_first_repository
+Here gonna be my first work whit Git.
